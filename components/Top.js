@@ -7,7 +7,7 @@ const Top = () => {
     return (
         <div className="mx-auto max-w-6xl">
             <div className="flex md:flex-row flex-col-reverse md:gap-16 gap-8 text-[#f8f8ff]">
-                <div className="md:w-1/2 w-full md:mt-24">
+                <div className="md:w-1/2 w-full md:mt-20">
                     <h1 className="text-4xl md:w-[25rem]"><strong>A Partner that helps your business compete on digital channels</strong></h1> 
                     <p className="mt-4 mb-4 md:w-96 text-3xl font-light italic">
                        A tidy house is well-thought-out! <span className="font-bold"> Enjoy our exclusive Website deals!</span>
