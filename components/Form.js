@@ -3,7 +3,7 @@ const Form = () => {
 
     return (
      <div className="mt-28 mx-auto md:w-1/2 px-5">
-        <h3 className="text-center text-3xl font-bold"> 
+        <h3 className="text-center md:text-left text-3xl font-bold md:pb-9 md:pl-5"> 
             Jaza sehemu zilizo hapa chini ili kupata habari unayotaka bila malipo
         </h3>
         {/*<form className="flex flex-col justify-center items-center gap-4 mt-8">
@@ -23,6 +23,7 @@ const Form = () => {
                 <input type="submit" className="bg-[#FBED04] w-[7rem] rounded p-0.5  m-5 hover:bg-[#FBED04]" ></input>
             </div>
         </form>*/}
+
         <div id="mlb2-5795106" className="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795106">
         <div className="ml-form-align-center">
             <div className="ml-form-embedWrapper embedForm">
