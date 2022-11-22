@@ -4,7 +4,7 @@ const Form = () => {
     return (
      <div className="md:mt-28 mx-auto md:w-1/2 px- w-full mb-20 ">
         <h3 className="text-left pl-5 md:pl-8 md:text-left text-3xl font-bold md:pb-9 text-[#FDEA03]"> 
-            Nyumba nzuri inafikiriwa vizuri! Furahia ofa zetu za kipekee za Tovuti!
+            Nyumba nadhifu hufikiriwa vizuri! Furahia ofa zetu za kipekee za Tovuti! 
         </h3>
         <h2 className="md:pl-8 pl-5 pt-8 md:pt-0 "> Jaza sehemu zilizo hapa chini ili kupata habari unayotaka bila malipo </h2>
         {/*<form className="flex flex-col justify-center items-center gap-4 mt-8">
