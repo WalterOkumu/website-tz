@@ -1,9 +1,9 @@
 export default function ContactForm() {
-    return (
-        <div className="mt-16 mx-auto md:w-1/2 px-9">
+    return(
+        <div className="md:mt-20 mt-14 mx-auto md:w-1/2 px-5">
         <h3 className="text-center"> 
 
-        Jaza sehemu zilizo hapa chini ili kupata habari unayotaka bila malipo</h3>
+            Jaza sehemu zilizo hapa chini ili kupata habari unayotaka bila malipo</h3>
         {/*<form className="flex flex-col justify-center items-center gap-4 mt-8">
             <div>
                 <label className="font-medium text-sm">Name: </label>
@@ -22,10 +22,10 @@ export default function ContactForm() {
             </div>
         </form>*/}
 
-        <div id="mlb2-5795106" className="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795106">
+        <div id="mlb2-5795106" className="text-center ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795106">
         <div className="ml-form-align-center">
             <div className="ml-form-embedWrapper embedForm">
-            <div className="ml-form-embedBody ml-form-embedBodyDefault row-form">
+            <div className="pt-5 ml-form-embedBody ml-form-embedBodyDefault row-form">
                 <div className="ml-form-embedContent" style={{marginBottom:0}}></div>
                 <form className="ml-block-form" action="https://static.mailerlite.com/webforms/submit/h4u1n5" data-code="h4u1n5" method="post" target="_blank">
                 <div className="ml-form-formContent">
@@ -47,7 +47,7 @@ export default function ContactForm() {
                 </div>
                 <input type="hidden" name="ml-submit" value="1"/>
                 <div className="ml-form-embedSubmit">
-                    <button type="submit" className="primary"> Wasilisha</button>
+                    <button type="submit" className="primary">Wasilisha</button>
                     <button disabled="disabled" style={{display:"none"}} type="button" className="loading"> <div className="ml-form-embedSubmitLoad"></div> <span className="sr-only">Loading...</span> </button>
                 </div>
                 <input type="hidden" name="anticsrf" value="true"/>

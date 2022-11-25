@@ -7,12 +7,12 @@ const Top = () => {
 
     return (
         <div className="mx-auto max-w-6xl">
-            <div className="flex md:flex-row flex-col-reverse md:gap-16  text-[#f8f8ff]">
-                <Form />
-                
-                <div className="md:w-1/2 w-full ">
-                <Image src={laptop} width={1090} height={1000} alt="Black Friday" className="object-contain " />
+            <div className="flex md:flex-row flex-col-reverse md:gap-16 text-[#f8f8ff]">
+                <Form /> 
+                <div className="md:w-1/2 w-full self-center">  
+                    <Image src={laptop} width={1090} height={1000} alt="Black Friday" className="object-contain" property="true"/>
                 </div>
+
             </div>
         </div>
     )

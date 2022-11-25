@@ -2,11 +2,16 @@
 const Form = () => {
 
     return (
-     <div className="md:mt-28 mx-auto md:w-1/2 px- w-full mb-20 ">
-        <h3 className="text-left pl-5 md:pl-8 md:text-left text-3xl font-bold md:pb-9 text-[#FDEA03]"> 
-            Nyumba nadhifu hufikiriwa vizuri! Furahia ofa zetu za kipekee za Tovuti! 
-        </h3>
-        <h2 className="md:pl-8 pl-5 pt-8 md:pt-0 "> Jaza sehemu zilizo hapa chini ili kupata habari unayotaka bila malipo </h2>
+     <div className="mx-auto md:w-1/2 w-full mb-9">
+        <h1 className="text-left text-5xl font-bold mb-3 md:mt-20 text-[#FDEA03]"> 
+            Uundaji wa tovuti
+        </h1>
+        <h2 className="text-left text-3xl font-bold mb-3 text-[#FDEA03]"> 
+            Fanya biashara yako ionekane vyema kwenye mfumo ikolojia wa kidijitali
+        </h2>
+
+        <h2 className="mb-3"> Jaza sehemu zilizo hapa chini ili kupata habari unayotaka bila malipo </h2>
+
         {/*<form className="flex flex-col justify-center items-center gap-4 mt-8">
             <div>
                 <label className="font-medium text-sm">Name: </label>
@@ -25,9 +30,9 @@ const Form = () => {
             </div>
         </form>*/}
 
-        <div id="mlb2-5795106" className="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795106 ">
+        <div id="mlb2-5795106" className="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795106">
         <div className="ml-form-align-center">
-            <div className="ml-form-embedWrapper embedForm ">
+            <div className="ml-form-embedWrapper embedForm">
             <div className="ml-form-embedBody ml-form-embedBodyDefault row-form">
                 <div className="ml-form-embedContent" style={{marginBottom:0}}></div>
                 <form className="ml-block-form" action="https://static.mailerlite.com/webforms/submit/h4u1n5" data-code="h4u1n5" method="post" target="_blank">
