@@ -10,7 +10,7 @@ const Form = () => {
             Fanya biashara yako ionekane vyema kwenye mfumo ikolojia wa kidijitali
         </h2>
 
-        <h2 className="mb-3"> Jaza sehemu zilizo hapa chini ili kupata habari unayotaka bila malipo </h2>
+        <h2 className="mb-3 font-bold"> Jaza sehemu zilizo hapa chini, ili upate ofa maalum ya PUNGUZO LA 30%. </h2>
 
         {/*<form className="flex flex-col justify-center items-center gap-4 mt-8">
             <div>

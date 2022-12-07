@@ -2,8 +2,8 @@ export default function ContactForm() {
     return(
         <div className="md:mt-20 mt-14 mx-auto md:w-1/2 px-5">
         <h3 className="text-center"> 
-
-            Jaza sehemu zilizo hapa chini ili kupata habari unayotaka bila malipo</h3>
+            Jaza sehemu zilizo hapa chini, ili upate ofa maalum ya PUNGUZO LA 30%.
+        </h3>
         {/*<form className="flex flex-col justify-center items-center gap-4 mt-8">
             <div>
                 <label className="font-medium text-sm">Name: </label>
